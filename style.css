@@ -7,6 +7,10 @@
     font-family: 'Open Sans';
 }
 
+body {
+    overflow: hidden;
+}
+
 /* Header */
 header{
     display: flex;
